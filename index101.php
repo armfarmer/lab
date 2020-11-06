@@ -14,16 +14,16 @@ nonymous">
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/creative/creative.jpg" style="width: 600px; height: 600px" class="img-fluid">
+                <img src="creative.jpg" style="width: 600px; height: 600px" class="img-fluid">
             </div>
             <div class="col-sm-3">
-                <img src="img/life/life5.jpg" style="width: 600px; height: 200px" class="img-fluid">
-                <img src="img/work/work2.jpg" style="width: 600px; height: 200px" class="img-fluid">
-                <img src="img/work/work3.jpg" style="width: 600px; height: 200px" class="img-fluid">
+                <img src="life5.jpg" style="width: 600px; height: 200px" class="img-fluid">
+                <img src="work2.jpg" style="width: 600px; height: 200px" class="img-fluid">
+                <img src="work3.jpg" style="width: 600px; height: 200px" class="img-fluid">
             </div>
             <div class="col-sm-3">
-                <img src="img/life/life9.jpg" style="width: 600px; height: 400px" class="img-fluid">
-                <img src="img/life/life2.jpg" style="width: 600px; height: 200px" class="img-fluid">
+                <img src="life9.jpg" style="width: 600px; height: 400px" class="img-fluid">
+                <img src="life2.jpg" style="width: 600px; height: 200px" class="img-fluid">
             </div>
         </div>
     </div>
